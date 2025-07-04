@@ -1,2 +1,3 @@
-# arcadia-os
-A whimsical browser-based OS set in a vast, alternate internet—welcome to ArcadiaOS.
+# Arcadia OS
+ArcadiaOSは、「現実とはちょっと違う大規模な疑似インターネット」を内包したブラウザ上のOSです。  
+単なるOSではなく、インターネットの根底から、アプリケーションの実行まで、あらゆる機能が一から設計されています。
